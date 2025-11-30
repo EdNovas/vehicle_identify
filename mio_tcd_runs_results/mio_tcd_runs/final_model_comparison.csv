@@ -1,0 +1,9 @@
+Model,mAP50-95,mAP50,Precision,Recall,Best Epoch,Total Epochs,Train Time
+yolov8x_MIO,0.66498,0.8528,0.81757,0.80436,48,63,10:43:16
+yolo12x_MIO,0.65572,0.8484,0.8176,0.79934,39,54,"1 day, 2:04:18"
+yolo11x_MIO,0.6496,0.84094,0.79282,0.79555,18,33,6:43:01
+,,,,,,,
+,,,,,,,
+AMD EPYC 9755 128-Core,,,,,,,
+1x H200 NVL 140G,,,,,,,
+290.2 GB RAM,,,,,,,
